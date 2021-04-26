@@ -1,7 +1,6 @@
 import React from 'react';
 import { createMaterialTopTabNavigator } from '@react-navigation/material-top-tabs';
 import { Profile } from './Profile';
-// import MainContent from './MainContent';
 import MainContainer from './MainContainer';
 
 export const Navbar = () => {
